@@ -18,14 +18,14 @@ dplyr
 
 Charts Implemented
 
-Bar Chart
-A bar chart is used to represent subject-wise average marks calculated from the total marks obtained by students.
+Box plot
+A box plot  is used to represent subject-wise average marks calculated from the total marks obtained by students.
 
-Line Chart
-A line chart shows the performance trend across Internal Test 1, Internal Test 2, and assignment marks.
+heat map
+A heat map shows the performance trend across Internal Test 1, Internal Test 2, and assignment marks.
 
-Pie Chart
-A pie chart illustrates the distribution of final grades among students.
+histogram
+A histogram illustrates the distribution of final grades among students.
 
 Learning Outcomes
 Understanding of student performance analysis using data visualization
